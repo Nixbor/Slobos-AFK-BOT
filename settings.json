@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "Nomelia.aternos.me",
+    "port": 30360,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
+        "Je fais tourner le serveur",
         "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Je suis un bot"
       ]
     },
     "chat-log": true,
